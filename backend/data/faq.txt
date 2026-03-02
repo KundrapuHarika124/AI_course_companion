@@ -1,0 +1,31 @@
+Frequently Asked Questions (FAQ)
+
+Q: Can I audit the course without getting a certificate?
+A: Yes, audit students can access all materials but won't receive grades or a certificate.
+
+Q: What if I miss the midterm exam?
+A: Contact the instructor within 24 hours with a valid reason. Make-up exams are only for documented emergencies.
+
+Q: How do I find teammates for the capstone project?
+A: We'll have a team formation session in Week 8. You can also use the course forum to find teammates.
+
+Q: Can I submit assignments after the deadline?
+A: Late submissions are accepted with a 10% penalty per day, up to 3 days late. After that, no credit.
+
+Q: What programming language is used in this course?
+A: Python 3.8+ is required. TensorFlow and PyTorch will be used for deep learning sections.
+
+Q: Are there any prerequisites?
+A: Yes, you should know Python basics and have some understanding of linear algebra. A pre-course assessment is available.
+
+Q: How much time should I dedicate per week?
+A: Plan for 8-10 hours per week: 4 hours for live sessions, 4-6 hours for assignments and projects.
+
+Q: Will I get solutions to assignments?
+A: Solutions are released one week after the due date, after all submissions are graded.
+
+Q: Can I get an extension on assignments due to work commitments?
+A: Extensions are only granted for emergencies. Plan your time accordingly as assignment deadlines are known in advance.
+
+Q: Is there a refund policy?
+A: Full refund available if you withdraw within the first 2 weeks. No refunds after Week 2.

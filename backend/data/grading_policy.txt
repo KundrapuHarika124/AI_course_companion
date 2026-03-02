@@ -1,0 +1,34 @@
+Grading Policy
+
+Your final grade is calculated based on the following components:
+
+1. Weekly Assignments (40%)
+   - 10 assignments total
+   - Each assignment worth 4%
+   - Must be submitted by Sunday 11:59 PM
+   - Late submissions: 10% penalty per day
+
+2. Midterm Exam (20%)
+   - Covers weeks 1-6
+   - Multiple choice and coding problems
+   - Scheduled in Week 7
+
+3. Capstone Project (30%)
+   - Team project (3-4 members)
+   - Project proposal: 5%
+   - Implementation: 15%
+   - Final presentation: 10%
+
+4. Class Participation (10%)
+   - Active participation in live sessions
+   - Forum discussions
+   - Peer review of projects
+
+Grading Scale:
+- A: 90-100%
+- B: 80-89%
+- C: 70-79%
+- D: 60-69%
+- F: Below 60%
+
+Note: A minimum of 70% is required to earn the course certificate.

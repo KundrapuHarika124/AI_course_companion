@@ -1,0 +1,38 @@
+Course Certification Requirements
+
+To earn the official course certificate, students must meet the following criteria:
+
+1. Minimum Overall Grade: 70% or higher
+   - This is calculated based on all grading components
+   - See grading policy for breakdown
+
+2. Assignment Completion: At least 8 out of 10 assignments must be submitted
+   - Quality matters: assignments must score at least 50%
+
+3. Capstone Project: Must be completed and presented
+   - Minimum passing score: 60%
+   - All team members must contribute
+
+4. Attendance: Minimum 75% attendance in live sessions
+   - 18 out of 24 sessions required
+
+Certificate Details:
+- Digital certificate issued within 2 weeks after course completion
+- Includes course title, completion date, and final grade
+- Signed by instructor and program director
+- Verifiable through unique certificate ID
+- Can be shared on LinkedIn and other professional platforms
+
+Honor Code:
+All work must be original. Plagiarism or cheating will result in:
+- Zero on the assignment/exam
+- Possible course failure
+- No certificate issued
+
+Certificate Calculation Example:
+If a student scores:
+- Assignments: 85% (0.85 × 40 = 34 points)
+- Midterm: 78% (0.78 × 20 = 15.6 points)
+- Capstone: 82% (0.82 × 30 = 24.6 points)
+- Participation: 90% (0.90 × 10 = 9 points)
+Total: 34 + 15.6 + 24.6 + 9 = 83.2% → Certificate Awarded ✓
