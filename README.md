@@ -6,7 +6,8 @@ An intelligent AI assistant that answers student questions about a course using 
 
 https://ai-course-companion-1ck9.vercel.app/
 
-## 🖼️ Preview
+<img width="1900" height="879" alt="Screenshot 2026-03-02 232753" src="https://github.com/user-attachments/assets/82461b7d-4087-44b6-ad2a-86ce698c7fc6" />
+
 
 Students can ask questions like:
 
