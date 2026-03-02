@@ -2,10 +2,11 @@
 
 An intelligent AI assistant that answers student questions about a course using official course materials.
 
-## 🔗 Live Demo
+## 🔗 Live Demo:
 
 https://ai-course-companion-1ck9.vercel.app/
 
+## 🖼️ Preview
 
 Students can ask questions like:
 
